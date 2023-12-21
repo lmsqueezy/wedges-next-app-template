@@ -17,7 +17,7 @@ With Wedges, you get a range of pre-built, customizable components that are easy
 To create a fresh Next.js project with Wedges pre-configured, run the following command:
 
 ```bash
-npx create-next-app -e https://github.com/lmsqueezy/wedges/wedges-next-app-template
+npx create-next-app -e https://github.com/lmsqueezy/wedges-next-app-template
 ```
 
 During the installation, you will be prompted to enter your project name. Once the installation is complete, run the following command to navigate to your project directory:
