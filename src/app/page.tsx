@@ -2,7 +2,6 @@ import { LemonSqueezy } from "@/components/LemonSqueezy";
 import { ArrowUpRightIcon } from "@iconicicons/react";
 import { Button, Tooltip } from "@lemonsqueezy/wedges";
 import Link from "next/link";
-import { useState } from "react";
 
 export default function Home() {
   return (
@@ -31,6 +30,7 @@ export default function Home() {
               Documentation
             </Link>
           </Button>
+
           <Button asChild variant="link" before={<ArrowUpRightIcon />}>
             <Link href="https://www.lemonsqueezy.com/wedges/figma" target="_blank">
               Figma
