@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@iconicicons/react": "^1.5.1",
-    "@lemonsqueezy/wedges": "^1.0.1",
+    "@lemonsqueezy/wedges": "latest",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
